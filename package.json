@@ -1,5 +1,6 @@
 {
-  "name": "horizon-ui-chakra-nextjs",
+  "name": "benchmark-dashboard",
+  "description": "Benchmark Dashboard - Powered by Horizon UI",
   "version": "3.0.0",
   "private": true,
   "dependencies": {

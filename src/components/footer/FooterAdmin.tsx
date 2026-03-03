@@ -37,7 +37,7 @@ export default function Footer() {
         {' '}
         &copy; {new Date().getFullYear()}
         <Text as="span" fontWeight="500" ms="4px">
-          Horizon UI. All Rights Reserved. Made with love by
+          Benchmark Dashboard. All Rights Reserved. Made with love by
           <Link
             mx="3px"
             color={textColor}
